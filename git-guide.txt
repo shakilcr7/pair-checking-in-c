@@ -1,0 +1,17 @@
+01. first time notun repository create korle oivabe sobgulo command diben.
+	a) git init
+	b) git add .
+	c) git commit -m "first commit"
+	d) git branch -M main
+	e) git remote add origin remote address for every new repository
+	f) git push -u origin main
+
+02. jodi repository exits kore(already thake) tahole and jodi apni aro kono kaj koren tahole shudhu ei 3 ta command thik moto diben.
+	a) git add .
+	b) git commit -m"ja ja kaj korsen segula sort kore likhben"
+	c) git push
+
+
+
+=======================================================================================================================================================================
+=====================================================================HAPPY CODING======================================================================================
